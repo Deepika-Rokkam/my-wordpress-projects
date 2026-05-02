@@ -1,0 +1,2 @@
+Day 1 - Starting my WordPress developer journey
+Goal: Learn PHP OOP and Git this month
